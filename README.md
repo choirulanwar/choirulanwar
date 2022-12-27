@@ -2,7 +2,7 @@
   <a target="_blank" href="https://choirulanwar.net">
     <img src="https://img.shields.io/badge/Website-choirulanwar.net-informational?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a target="_blank" href="mailto:contact@choirulanwar.com">
+  <a target="_blank" href="mailto:labs.choirulanwar@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
   </a>
   <a target="_blank" rel="nofollow" href="https://github.com/choirulanwar">
