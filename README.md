@@ -1,8 +1,8 @@
 <p>
-  <a target="_blank" href="https://choirulanwar.net">
-    <img src="https://img.shields.io/badge/Website-choirulanwar.net-informational?style=for-the-badge&logo=github&logoColor=white" />
+  <a target="_blank" href="https://choirulanwar.com">
+    <img src="https://img.shields.io/badge/Website-choirulanwar.com-informational?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a target="_blank" href="mailto:labs.choirulanwar@gmail.com">
+  <a target="_blank" href="mailto:me@choirulanwar.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
   </a>
   <a target="_blank" rel="nofollow" href="https://github.com/choirulanwar">
@@ -21,7 +21,7 @@
 
 ![Cat](cat.gif)
 
-- 🔭 [Blog](https://choirulanwar.net/)
+- 🔭 [Blog](https://choirulanwar.com/)
 - 🌱 I'm currently learning: \*\*OpenAI, Blockchain, Flutter...
 - 📫 How to reach me: \*\*[LinkedIn](https://www.linkedin.com/in/--choirulanwar/)...
 
